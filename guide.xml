@@ -1,0 +1,1561 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Neox">
+    <display-name lang="es">Neox</display-name>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/7c/10000508.png" />
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <channel id="Atreseries">
+    <display-name lang="es">Atreseries</display-name>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/f3/10000883.png" />
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <programme start="20200514001200 +0000" stop="20200514002400 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">El veredicto</sub-title>
+    <desc lang="es">Claire está dispuesta en dar a Haley y a Alex una buena imagen en el día de llevar a sus hijas al trabajo, pero sus compañeros no se lo pondrán fácil. Mientras tanto, Luke y Manny participarán junto a Phil en un día de servicio a la comunidad. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5b/214363.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514002400 +0000" stop="20200514004700 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Cuanto más me ignores</sub-title>
+    <desc lang="es">Las inseguridades de Phil sobre no haber sido suficientemente rebelde en la vida regresan a su mente por culpa de los actos de sus hijos. Por otra parte, Haley y Dylan tienen un encuentro muy incómodo con Andy y su novia en el cine. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/5b/214363.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514004700 +0000" stop="20200514011000 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">San Valentín 4: la hermana loca</sub-title>
+    <desc lang="es">Los Dunphy vuelven a interpretar a los personajes de Clive y Juliana en san Valentín, pero Claire cree que Phil podría estar más interesado en su 'alter ego' que en su propia esposa. Mientras tanto, Sonia, la hermana de Gloria, estropea los planes de Jay. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8e/167310.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514011000 +0000" stop="20200514013300 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">¡A por los bolos!</sub-title>
+    <desc lang="es">Cam pide a Jay que participe en su equipo de bolos, a lo que él acepta sin saber que todos los miembros de la liga son homosexuales. Mientras tanto, Gloria y Mitch quieren demostrarse que todavía son jóvenes y aceptan pasar una noche de discotecas con Haley. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8e/167310.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514013300 +0000" stop="20200514015600 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Adormentado</sub-title>
+    <desc lang="es">Phil prepara una elaborada mentira para Claire después de fallar en la única tarea doméstica que ella le encargó. Mientras tanto, Gloria está obsesionada con el retrato familiar porque este año le ha tocado ser la encargada. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/18/262168.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514015600 +0000" stop="20200514021900 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">La boda (1ª parte)</sub-title>
+    <desc lang="es">Toda una serie de acontecimientos pondrán a prueba la boda de Mitch y Cam. Para empezar, Pepper Saltzman -el organizador del enlance- y su ayudante Ronaldo deberán lidiar con un incendio forestal que está teniendo lugar cerca del lugar de la ceremonia que oficiará Sal. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/18/262168.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514021900 +0000" stop="20200514024200 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">El niñero</sub-title>
+    <desc lang="es">Gloria contrata a un chico, al parecer ideal, como niñero, pero Jay y Manny se oponen. Además, Frank Dunphy está en la ciudad y se siente un poco solo, mientras que Mith y Cam piden ayuda a su extravagante amigo Pepper para organizar la boda con la que siempre soñaron. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/18/262168.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514024200 +0000" stop="20200514030500 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Aviones, trenes y coches</sub-title>
+    <desc lang="es">Los Dunphy quieren comprar un coche nuevo, pero Phil lo hace en un arrebato sin consultar con su mujer Claire. Mientras tanto, Jay, Gloria y Manny acuden a una reunión de antiguos alumnos de la escuela secundaria del padre de familia. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/229069.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514030500 +0000" stop="20200514032800 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Un desliz en la ópera</sub-title>
+    <desc lang="es">Cameron está desarrollando en la escuela la obra ''El Fantasma de la Opera'', pero cuando su estrella cae enfermo, Manny hace todo lo posible por ocupar su lugar. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/286961.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514032800 +0000" stop="20200514035100 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">La calabaza voladora</sub-title>
+    <desc lang="es">Mitchell cuestiona la autenticidad de las coloridas historias que Cameron cuenta de su infancia. Además, un antiguo vecino del barrio, ahora rico y exitoso, vuelve para hacer una visita a sus viejos amigos. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/229069.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514035100 +0000" stop="20200514041400 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">¡Que salgan los payasos!</sub-title>
+    <desc lang="es">Cameron se reencuentra con su antiguo compañero Lewis en el funeral de un viejo conocido. Además, Manny tiene un nuevo amigo, pero Jay y Gloria sospechan que lo es porque busca algún beneficio. Phil, por su parte, quiere anunciar algo importante. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/229069.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514041400 +0000" stop="20200514043600 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Noche estrellada</sub-title>
+    <desc lang="es">Phil y Claire se reparten el trabajo de ayudar a sus hijos con los proyectos que tienen que hacer para clase. Por su parte, Jay y Mitchell organizan su tradicional excursión de padre e hijo para ver las estrellas fugaces. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/98/283800.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514043600 +0000" stop="20200514050000 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">El último Walt</sub-title>
+    <desc lang="es">Claire intenta explicarle a Luke que su amigo y vecino Walt ha fallecido. Phil habla con Alex de pasar algún tiempo padre e hija y Haley acude a una fiesta sin permiso. Mientras tanto, Jay y Gloria van a cenar con Mitch y Cam junto al padre de Cam, Merle. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/229069.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514050000 +0000" stop="20200514055000 +0000" channel="Neox">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales. Emisión de videoclips y piezas musicales.(n)</desc>
+    <category lang="es">Videoclips</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/508287.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514055000 +0000" stop="20200514060000 +0000" channel="Neox">
+    <title lang="es">Estación Neox</title>
+    <desc lang="es">Espacio musical dedicado a los solistas y grupos españoles del momento. Cada entrega contará con la actuación de un grupo o solista y entrevistas, precedido por un vídeo que recorre la trayectoria del artista o banda musical. Espacio musical dedicado a los solistas y grupos españoles del momento. Cada entrega contará con la actuación de un grupo o solista y entrevistas, precedido por un vídeo que recorre la trayectoria del artista o banda musical.(n)</desc>
+    <category lang="es">Conciertos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6f/171631.png" />
+    <episode-num system="onscreen">E9</episode-num>
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514060000 +0000" stop="20200514070000 +0000" channel="Neox">
+    <title lang="es">Bestial</title>
+    <sub-title lang="es">Bestial</sub-title>
+    <desc lang="es">Nacho Sierra se encarga de mostrar a la audiencia lo que da de sí el reino animal. En este espacio tienen cabida desde las mascotas más exóticas hasta los animales de campo, sin olvidar el trabajo de veterinarios, etólogos y otros profesionales afines al este ámbito. Nacho Sierra se encarga de mostrar a la audiencia lo que da de sí el reino animal. En este espacio tienen cabida desde las mascotas más exóticas hasta los animales de campo, sin olvidar el trabajo de veterinarios, etólogos y otros profesionales afines al este ámbito.(n)</desc>
+    <credits>
+      <director>Alejandro Moreu</director>
+      <presenter>Nacho Sierra</presenter>
+    </credits>
+    <category lang="es">Naturaleza y animales</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/83/227971.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514070000 +0000" stop="20200514093000 +0000" channel="Neox">
+    <title lang="es">Neox Kidz</title>
+    <desc lang="es">Programa infantil y juvenil que estrena las mejores series nacionales e internacionales. ''Angry Birds'', ''Robot &amp; Monster'' y ''Los padrinos mágicos'' son algunas de las producciones que los más jóvenes de la casa pueden disfrutar en este espacio matinal de Neox. Programa infantil y juvenil que estrena las mejores series nacionales e internacionales. ''Angry Birds'', ''Robot &amp; Monster'' y ''Los padrinos mágicos'' son algunas de las producciones que los más jóvenes de la casa pueden disfrutar en este espacio matinal de Neox.(n)</desc>
+    <category lang="es">Infantiles</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/04/384516.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514093000 +0000" stop="20200514095100 +0000" channel="Neox">
+    <title lang="es">The Middle</title>
+    <sub-title lang="es">El paseo</sub-title>
+    <desc lang="es">Después de encontrarse con algunos conocidos, Frankie y Mike descubren que son más amables y cariñosos con otras personas que entre ellos mismos. Sexta temporada de la serie protagonizada por una de las familias más alocadas de la televisión. En esta nueva tanda de episodios, Sue por fin consigue deshacerse de sus sempiternos brákets, mientras que Frankie y Mike buscarán segundos trabajos.(n)</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <writer>Eileen Heisler</writer>
+      <writer>DeAnn Heline</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/00/158464.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514095100 +0000" stop="20200514101300 +0000" channel="Neox">
+    <title lang="es">The Middle</title>
+    <sub-title lang="es">Horas de oficina</sub-title>
+    <desc lang="es">Cansada de las constantes demandas de sus hijos, Frankie establecerá un horario para atender las exigencias de los jóvenes. Mientras tanto, Mike empezará a preocuparse al comprobar que Darrin pasa demasiado tiempo en casa con Sue. Sexta temporada de la serie protagonizada por una de las familias más alocadas de la televisión. En esta nueva tanda de episodios, Sue por fin consigue deshacerse de sus sempiternos brákets, mientras que Frankie y Mike buscarán segundos trabajos.(n)</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <writer>Eileen Heisler</writer>
+      <writer>DeAnn Heline</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/00/158464.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514101300 +0000" stop="20200514103500 +0000" channel="Neox">
+    <title lang="es">The Middle</title>
+    <sub-title lang="es">Intercambio de papeles</sub-title>
+    <desc lang="es">Mike se va con Sue de fin de semana con la universidad. Mientras tanto, Frankie deja tirado a Brick con su proyecto de la escuela para poder ver jugar a Axl en su primer partido de fútbol americano en la universidad. Sexta temporada de la serie protagonizada por una de las familias más alocadas de la televisión. En esta nueva tanda de episodios, Sue por fin consigue deshacerse de sus sempiternos brákets, mientras que Frankie y Mike buscarán segundos trabajos.(n)</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <writer>Eileen Heisler</writer>
+      <writer>DeAnn Heline</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/a4/202660.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514103500 +0000" stop="20200514105600 +0000" channel="Neox">
+    <title lang="es">The Middle</title>
+    <sub-title lang="es">Hermanos y sombreros mejicanos</sub-title>
+    <desc lang="es">Sue se enfada después de que Axl se olvide de traer a casa un sombrero. La joven quiere utilizarlo para hacer una foto en la escuela. Sexta temporada de la serie protagonizada por una de las familias más alocadas de la televisión. En esta nueva tanda de episodios, Sue por fin consigue deshacerse de sus sempiternos brákets, mientras que Frankie y Mike buscarán segundos trabajos.(n)</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <writer>Eileen Heisler</writer>
+      <writer>DeAnn Heline</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/a4/202660.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514105600 +0000" stop="20200514111800 +0000" channel="Neox">
+    <title lang="es">The Middle</title>
+    <sub-title lang="es">Lucha de restaurantes</sub-title>
+    <desc lang="es">Brick se mete en problemas por faltarle al respeto a su madre. Por otro lado, Axl se niega a ir a la ciudad para ayudar a Mike tras su cumpleaños, y Sue recibe una oferta de trabajo de un competidor en el ámbito de la restauración. Sexta temporada de la serie protagonizada por una de las familias más alocadas de la televisión. En esta nueva tanda de episodios, Sue por fin consigue deshacerse de sus sempiternos brákets, mientras que Frankie y Mike buscarán segundos trabajos.(n)</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <writer>Eileen Heisler</writer>
+      <writer>DeAnn Heline</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/a4/202660.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514111800 +0000" stop="20200514114000 +0000" channel="Neox">
+    <title lang="es">The Middle</title>
+    <sub-title lang="es">Tal para cual</sub-title>
+    <desc lang="es">Frankie y Mike se ven envueltos en un problema familiar cuando el tío holandés de Frankie contacta con su padre, Tag, en un intento de reunirse y enterrar el hacha de guerra con su hermano. Mientras tanto, una temerosa Sue recibe su primera orden de detención. Sexta temporada de la serie protagonizada por una de las familias más alocadas de la televisión. En esta nueva tanda de episodios, Sue por fin consigue deshacerse de sus sempiternos brákets, mientras que Frankie y Mike buscarán segundos trabajos.(n)</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Charlie McDermott</actor>
+      <actor>Eden Sher</actor>
+      <actor>Atticus Shaffer</actor>
+      <writer>Eileen Heisler</writer>
+      <writer>DeAnn Heline</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/a4/202660.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514114000 +0000" stop="20200514120000 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La aceleración del lanzamiento</sub-title>
+    <desc lang="es">La fecha de la excursión de Howard al espacio se ha fijado para el mismo día de su boda con Bernadette. Por su parte, Amy utiliza técnicas psicológicas para que la relación entre ella y Sheldon sea más cercana. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/24/544036.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514120000 +0000" stop="20200514122100 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La derivación de un brindis</sub-title>
+    <desc lang="es">Sheldon lucha contra la realidad cuando se da cuenta de que Leonard es el centro del grupo. Pero no se rinde y trata de formar otro equipo con Zack, exnovio de Penny, Stuart y Kripke. Por su parte, Penny trata de superar que Leonard ahora sale con Priya. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/10/186640.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514122100 +0000" stop="20200514124200 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La reflexión de la cuenta atrás</sub-title>
+    <desc lang="es">Debido a la nueva fecha de la misión espacial, Howard y Bernadette deciden celebrar el enlace antes de la expedición. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/24/544036.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514124200 +0000" stop="20200514130300 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La equivalencia del baile del instituto</sub-title>
+    <desc lang="es">Amy y Bernadette deciden organizar una nueva fiesta de graduación. El entusiasmo de las chicas choca con las dudas y temores de Sheldon. Además, Stuart también ha sido invitado a la fiesta y Howard se preocupa por la pareja que llevará el compañero de piso de su madre. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/94/478356.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514130300 +0000" stop="20200514132400 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La minimización del arca perdida</sub-title>
+    <desc lang="es">Sheldon trata de vengarse de Amy, quien le ha hecho ver los fallos de argumento que contiene la película ''Indiana Jones en busca del arca perdida''. Además, Leonard aprovecha el trauma que tiene con su madre para influenciar a Penny. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/08/474120.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514132400 +0000" stop="20200514134500 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La experimentación de la cohabitación</sub-title>
+    <desc lang="es">Cuando el apartamento de Amy se inunda, ella le propone a Sheldon un experimento de convivencia. Mientras tanto, Howard y Bernadette se enfadan cuando Koothrappali se entera del sexo del bebé antes que ellos. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/c4/623556.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514134500 +0000" stop="20200514140700 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">La prueba de paternidad de Homer</sub-title>
+    <desc lang="es">El cartero entrega una vieja carta en casa de los Simpson y a raíz de su contenido Homer empieza a sospechar que el abuelo no es su padre biológico. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/195711.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514140700 +0000" stop="20200514142900 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Casa árbol del terror XVI</sub-title>
+    <desc lang="es">El día de Halloween, Bart entra en coma y lo sustituye un niño robot. Por otro lado, Burns intenta dar caza a Homer en un juego de lo más peligroso. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/195711.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514142900 +0000" stop="20200514145100 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Bart tiene dos mamás</sub-title>
+    <desc lang="es">Marge enseña a divertirse a Rod y Todd Flanders. Y un chimpancé solitario se pega a Bart. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/195711.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514145100 +0000" stop="20200514151300 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Edna especial</sub-title>
+    <desc lang="es">Edna Krabappel tiene problemas para soportar las intromisiones de la madre de Skinner en su relación. Para consolarla, Bart la hace nominar maestra del año. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/195711.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514151300 +0000" stop="20200514153500 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Papicus Finch</sub-title>
+    <desc lang="es">El vínculo de Lisa y Homer se fortalece cuando comienzan a pasar tiempo juntos y leyendo ''Matar a un ruiseñor''. Por ello, Bart se siente completamente ignorado. Marge trata de ayudar a Homer a equilibrar su atención a los niños. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fe/618750.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514153500 +0000" stop="20200514155800 +0000" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El del despido de Rachel</sub-title>
+    <desc lang="es">Chandler no lleva bien el hecho de que, en la obra de teatro en la que actúa. Kathy se dedique a fingir que mantiene relaciones sexuales con un hombre muy atractivo. Por su parte, Rachel tiene que trabajar como ''asistente de compras'', algo que no le agrada demasiado. Sin tener nada de lo que habían planeado a causa de un gran temporal, Phoebe y Mike se casan en la calle frente al Central Perk. Mónica y Chandler deciden adoptar un niño y son elegidos por una madre soltera joven.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fd/141821.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514155800 +0000" stop="20200514162100 +0000" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El del día sucio de Joey</sub-title>
+    <desc lang="es">Después de irse a pescar por tres días con su padre, Joey no tiene tiempo para darse una ducha antes de ir al plató de la nueva película de Charlton Heston, en la que participa como secundario. Por su parte, Rachel sigue prendada de uno de sus clientes. Sin tener nada de lo que habían planeado a causa de un gran temporal, Phoebe y Mike se casan en la calle frente al Central Perk. Mónica y Chandler deciden adoptar un niño y son elegidos por una madre soltera joven.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fd/141821.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514162100 +0000" stop="20200514164500 +0000" channel="Neox">
+    <title lang="es">Friends</title>
+    <sub-title lang="es">El del rugby</sub-title>
+    <desc lang="es">Ross y Emily se encuentran con algunos de los amigos jugadores de béisbol de Emily. Emily se parte de risa al imaginar a Ross jugando a rugby, lo que a él le resulta molesto. Tanto que insiste en jugar un partido con pese a que los amigos de Emily son más grandes. Sin tener nada de lo que habían planeado a causa de un gran temporal, Phoebe y Mike se casan en la calle frente al Central Perk. Mónica y Chandler deciden adoptar un niño y son elegidos por una madre soltera joven.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/fd/141821.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514164500 +0000" stop="20200514170800 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">¡A por los bolos!</sub-title>
+    <desc lang="es">Cam pide a Jay que participe en su equipo de bolos, a lo que él acepta sin saber que todos los miembros de la liga son homosexuales. Mientras tanto, Gloria y Mitch quieren demostrarse que todavía son jóvenes y aceptan pasar una noche de discotecas con Haley. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/8e/167310.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514170800 +0000" stop="20200514173100 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">Un desliz en la ópera</sub-title>
+    <desc lang="es">Cameron está desarrollando en la escuela la obra ''El Fantasma de la Opera'', pero cuando su estrella cae enfermo, Manny hace todo lo posible por ocupar su lugar. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/f1/286961.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514173100 +0000" stop="20200514175500 +0000" channel="Neox">
+    <title lang="es">Modern Family</title>
+    <sub-title lang="es">¡Atrápalo!</sub-title>
+    <desc lang="es">El lugar en el que se refugia Jay empieza a perder parte de su encanto cuando Phil considera hacerse miembro. Mientras tanto, Claire confunde la influencia que tiene sobre las decisiones de Alex y Hayley se preocupa demasiado por lo que su hermana piensa de ella. Octava temporada de la serie en la que tres parejas -unos padres que no se ponen de acuerdo en cómo educar a sus hijos, un matrimonio a cuyos integrantes separan varias décadas y una pareja homosexual con una niña- se enfrentan a los retos que les depara la vida.(n)</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <writer>Christopher Lloyd</writer>
+      <writer>Steven Levitan</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/4c/267852.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514175500 +0000" stop="20200514181500 +0000" channel="Neox">
+    <title lang="es">Los Goldberg</title>
+    <desc lang="es">Beverly y Murray se encuentran cada vez más cerca de tener el nido vacío con la marcha de los chicos de casa, lo que significa tener más tiempo libre para Beverly y sus actividades y más consumo de televisión para Murray. Ambientada en los años 80, la comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine.(n)</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Sean Giambrone</actor>
+      <writer>Adam F. Goldberg</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/66/595814.png" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514181500 +0000" stop="20200514183500 +0000" channel="Neox">
+    <title lang="es">Los Goldberg</title>
+    <desc lang="es">Se está organizando una gran fiesta en la casa de Dave Kim y Pops tiene un plan para hacer que Adam sea guay para el gran evento. Mientras tanto, el libro de cocina de Beverly la ha hecho ''famosa'', llevándola a estar fuera de control y hambrienta de fama. Ambientada en los años 80, la comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine.(n)</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Sean Giambrone</actor>
+      <writer>Adam F. Goldberg</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/66/595814.png" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514183500 +0000" stop="20200514185500 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La trascendencia de la dependencia</sub-title>
+    <desc lang="es">La tensión va en aumento cuando los chicos no pueden completar el proyecto gubernamental en el plazo establecido y, por si fuera poco, Sheldon toma una bebida energética para mantenerse despierto. Además, Penny y Amy asisten a una fiesta en casa de Bert, el geólogo. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/c4/623556.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514185500 +0000" stop="20200514191500 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La excitación holográfica</sub-title>
+    <desc lang="es">Todo el grupo va a la fiesta de Halloween de la tienda de cómics de Stuart. Allí, Leonard aprovecha sus conocimientos científicos para seducir a Penny. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/84/473988.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514191500 +0000" stop="20200514193500 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La aproximación a 2003</sub-title>
+    <desc lang="es">Leonard y Penny finalmente deciden mudarse y vivir juntos. Sheldon, al enterarse, se siente muy molesto, por lo que quiere volver a una época en la que no tenia emociones, el año 2003, cuando todavía no conocía a Leonard. Raj y Howard intentan formar una banda. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/67/278119.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514193500 +0000" stop="20200514195500 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">El deterioro de la soledad</sub-title>
+    <desc lang="es">Leonard, Sheldon y Wolowitz se meten en problemas a la hora de presentar una patente para su giroscopio. Mientras tanto, Penny, Amy y Bernadette dan consejos sobre citas a Koothrappali cuando Emily se acerca a él después de su ruptura. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/67/278119.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514195500 +0000" stop="20200514201500 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La identificación de la escotilla de escape</sub-title>
+    <desc lang="es">Cuando Raj abandona su apartamento, Leonard y Penny le ofrecen la antigua habitación de Sheldon. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/c4/623556.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514201500 +0000" stop="20200514203600 +0000" channel="Neox">
+    <title lang="es">Mom</title>
+    <sub-title lang="es">Focas y una clase de gimnasia basada en la danza</sub-title>
+    <desc lang="es">Bonnie y las chicas ayudan a Tammy a prepararse para su primera cita desde que salió de prisión. Y Christy vuelve a uno de sus viejos vicios. Christy decide restablecer su vida en California tras dejar el alcohol y las drogas. Trabaja de camarera y asiste a reuniones de Alcohólicos Anónimos mientras trata de enmendar sus errores como madre soltera, cosa que no le será tan fácil.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Mimi Kennedy</actor>
+      <actor>Beth Hall</actor>
+      <actor>William Fichtner</actor>
+      <actor>Allison Janney</actor>
+      <writer>Gemma Baker</writer>
+      <writer>Eddie Gorodetsky</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/85/491653.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514203600 +0000" stop="20200514205800 +0000" channel="Neox">
+    <title lang="es">Mom</title>
+    <sub-title lang="es">Talco para pies y un metro y medio de vodka</sub-title>
+    <desc lang="es">Christy descubre que Adam le ha estado ocultando algo a Bonnie. Además, Tammy busca un trabajo para evitar que la envíen a prisión. Christy decide restablecer su vida en California tras dejar el alcohol y las drogas. Trabaja de camarera y asiste a reuniones de Alcohólicos Anónimos mientras trata de enmendar sus errores como madre soltera, cosa que no le será tan fácil.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Mimi Kennedy</actor>
+      <actor>Beth Hall</actor>
+      <actor>William Fichtner</actor>
+      <actor>Allison Janney</actor>
+      <writer>Gemma Baker</writer>
+      <writer>Eddie Gorodetsky</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/85/491653.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514205800 +0000" stop="20200514212000 +0000" channel="Neox">
+    <title lang="es">Mom</title>
+    <sub-title lang="es">Un hacky sack y una experiencia maravillosa</sub-title>
+    <desc lang="es">Que Christy fume provoca problemas en el viaje de las chicas. Además, Bonnie ofrece a Adam consejos comerciales, que él no ha pedido. Christy decide restablecer su vida en California tras dejar el alcohol y las drogas. Trabaja de camarera y asiste a reuniones de Alcohólicos Anónimos mientras trata de enmendar sus errores como madre soltera, cosa que no le será tan fácil.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Mimi Kennedy</actor>
+      <actor>Beth Hall</actor>
+      <actor>William Fichtner</actor>
+      <actor>Allison Janney</actor>
+      <writer>Gemma Baker</writer>
+      <writer>Eddie Gorodetsky</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/85/491653.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514212000 +0000" stop="20200514214300 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Bart al futuro</sub-title>
+    <desc lang="es">A Bart le predicen el futuro. Lisa es una triunfadora y se convertirá en presidenta del país, pero tendrá que aguantar a Bart. Él no ha cambiado en absoluto y no tiene trabajo. Lisa se avergüenza de él, pero al final saldrá el amor de hermanos que en el fondo existe. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/195711.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514214300 +0000" stop="20200514220600 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Marge está loca, loca, loca</sub-title>
+    <desc lang="es">Desconsolada después de ser plantada en el altar por Otto, Becky se queda a vivir en casa de los Simpson, pero Marge no consigue acostumbrarse a su presencia y empieza a sentir celos de la joven. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/195711.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514220600 +0000" stop="20200514223000 +0000" channel="Neox">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">Reza lo que sepas</sub-title>
+    <desc lang="es">Flanders gana un concurso y Homer le pregunta cuál es el secreto de su buena fortuna. Ned le revela que su secreto es ser buena persona, trabajador y honesto, y que rezar de vez en cuando también ayuda. Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad norteamericana de Springfield. Sus estrafalarias aventuras ya suman más de 20 temporadas en antena.(n)</desc>
+    <credits>
+      <writer>Matt Groening</writer>
+    </credits>
+    <category lang="es">Adultos</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7f/195711.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514223000 +0000" stop="20200514224900 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La transferencia del regalo de boda</sub-title>
+    <desc lang="es">Leonard y Penny le dan a Sheldon y Amy un desconcertante regalo de bodas. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/623565.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514224900 +0000" stop="20200514230900 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La colisión planetaria</sub-title>
+    <desc lang="es">Cuando Amy no tiene tiempo para trabajar en la super-asimetría, Sheldon hace todo lo posible para asegurarse de que sí esté disponible para trabajar con él, incluso si eso significa sabotear accidentalmente su carrera en el proceso. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/623565.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514230900 +0000" stop="20200514232800 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La perturbación de imitación</sub-title>
+    <desc lang="es">Cuando Wolowitz se disfraza de Sheldon para Halloween, Sheldon intenta hacer todo tipo represalias en la fiesta que han organizado Leonard y Penny. Además, a Leonard le sorprende mucho que Penny no recuerde su primer beso. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/623565.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514232800 +0000" stop="20200514234800 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La proposición de la propagación</sub-title>
+    <desc lang="es">El antiguo novio de Penny, Zack, y su esposa quieren tener un bebé. Cuando Zack descubre que no es fértil, la pareja pide ayuda a Leonard. Mientras tanto, Raj intenta arreglar las cosas con su exprometida Anu. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/cd/623565.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514234800 +0000" stop="20200515000700 +0000" channel="Neox">
+    <title lang="es">Big Bang</title>
+    <sub-title lang="es">La regeneración de Protón</sub-title>
+    <desc lang="es">Sheldon y Will Wheaton van de cabeza a por el puesto del nuevo profesor Proton. Mientras, Penny cuida de Halley mientras Bernadette y Howard descansan. Tras la emocionante boda de Sheldon y Amy, oficiada por el mismísimo Mark Hamill, la pareja conocida como Shamy disfruta de su luna de miel. El enlace dejará momentos para el recuerdo y afectará a las relaciones personales de toda la pandilla.(n)</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Mayim Bialik</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Bill Prady</writer>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/c9/623561.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514002800 +0000" stop="20200514011800 +0000" channel="Atreseries">
+    <title lang="es">Profilage: perfiles criminales</title>
+    <sub-title lang="es">Nuevo comienzo, Segunda Parte</sub-title>
+    <desc lang="es">Adele y el comisario Rocher se reúnen tras cinco años con el fin de resolver un asesinato. Lo que ignoran es que el caso les pone a ambos en peligro. Novena temporada en la que Adèle Delettre, una brillante criminóloga especialista en la elaboración de perfiles criminales, colabora como asesora de la Brigada Criminal de París. Sus excentricidades harán que sus compañeros de trabajo sientan recelo hacia ella.(n)</desc>
+    <credits>
+      <actor>Odile Vuillemin</actor>
+      <actor>Jean-Michel Martial</actor>
+      <actor>Raphaël Ferret</actor>
+      <actor>Vanessa Valence</actor>
+      <actor>Guillaume Cramoisan</actor>
+      <actor>Guillaume de Tonquédec</actor>
+      <writer>Fanny Robert</writer>
+      <writer>Sophie Lebarbier</writer>
+    </credits>
+    <category lang="es">Policiacas</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/73/510323.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514011800 +0000" stop="20200514021400 +0000" channel="Atreseries">
+    <title lang="es">Profilage: perfiles criminales</title>
+    <sub-title lang="es">Profunda convicción 1ª Parte</sub-title>
+    <desc lang="es">Los agentes investigan un espantoso suceso, el asesinato de una familia. Las pistas del caso les llevan hasta un profesor de filosofía encarcelado por otro asesinato. Novena temporada en la que Adèle Delettre, una brillante criminóloga especialista en la elaboración de perfiles criminales, colabora como asesora de la Brigada Criminal de París. Sus excentricidades harán que sus compañeros de trabajo sientan recelo hacia ella.(n)</desc>
+    <credits>
+      <actor>Odile Vuillemin</actor>
+      <actor>Jean-Michel Martial</actor>
+      <actor>Raphaël Ferret</actor>
+      <actor>Vanessa Valence</actor>
+      <actor>Guillaume Cramoisan</actor>
+      <actor>Guillaume de Tonquédec</actor>
+      <writer>Fanny Robert</writer>
+      <writer>Sophie Lebarbier</writer>
+    </credits>
+    <category lang="es">Policiacas</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d5/484565.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514021400 +0000" stop="20200514031000 +0000" channel="Atreseries">
+    <title lang="es">Profilage: perfiles criminales</title>
+    <sub-title lang="es">Profunda convicción 2ª Parte</sub-title>
+    <desc lang="es">Los agentes investigan el aparente suicidio de una mujer de 53 años. No tardan en hallar otro cadáver en el apartamento, el de la hija de la primera víctima. Novena temporada en la que Adèle Delettre, una brillante criminóloga especialista en la elaboración de perfiles criminales, colabora como asesora de la Brigada Criminal de París. Sus excentricidades harán que sus compañeros de trabajo sientan recelo hacia ella.(n)</desc>
+    <credits>
+      <actor>Odile Vuillemin</actor>
+      <actor>Jean-Michel Martial</actor>
+      <actor>Raphaël Ferret</actor>
+      <actor>Vanessa Valence</actor>
+      <actor>Guillaume Cramoisan</actor>
+      <actor>Guillaume de Tonquédec</actor>
+      <writer>Fanny Robert</writer>
+      <writer>Sophie Lebarbier</writer>
+    </credits>
+    <category lang="es">Policiacas</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/d5/484565.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514031000 +0000" stop="20200514041000 +0000" channel="Atreseries">
+    <title lang="es">Aquí no hay quien viva</title>
+    <sub-title lang="es">Érase una Nochevieja</sub-title>
+    <desc lang="es">Belén ha invitado a sus padres a cenar para presentarles oficialmente a Emilio. Mauri también prepara una fiesta para que sus amigos gays conozcan a Diego. Pero no todo son fiestas, ya que al descubrirse el idilio entre Juan e Isabel, en ambas familias están enfadadas. Los cotilleos, romances y fobias tienen lugar en una comunidad de vecinos tratados en clave de humor en esta comedia, que llega ya a su quinta temporada.(n)</desc>
+    <credits>
+      <actor>María Adánez</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Santiago Ramos</actor>
+      <actor>Gemma Cuervo</actor>
+      <actor>Emma Penella</actor>
+      <actor>Assumpta Serna</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/283696.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514041000 +0000" stop="20200514051000 +0000" channel="Atreseries">
+    <title lang="es">Aquí no hay quien viva</title>
+    <sub-title lang="es">Érase una grieta</sub-title>
+    <desc lang="es">Andrés se traslada al ático e Isabel a casa de Juan. Pero Nieves no se va, y la casa se queda pequeña. Deciden tirar el tabique sin comunicárselo a la comunidad y unir las dos casas, la de Isabel y la de Juan. Pero en casa de Lucía sale una enorme grieta que les delata. Los cotilleos, romances y fobias tienen lugar en una comunidad de vecinos tratados en clave de humor en esta comedia, que llega ya a su quinta temporada.(n)</desc>
+    <credits>
+      <actor>María Adánez</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Santiago Ramos</actor>
+      <actor>Gemma Cuervo</actor>
+      <actor>Emma Penella</actor>
+      <actor>Assumpta Serna</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/283696.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514051000 +0000" stop="20200514060000 +0000" channel="Atreseries">
+    <title lang="es">Más de series</title>
+    <desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia. Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.(n)</desc>
+    <category lang="es">Televisión</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/60/629344.png" />
+  </programme>
+  <programme start="20200514060000 +0000" stop="20200514064500 +0000" channel="Atreseries">
+    <title lang="es">La sopa boba</title>
+    <sub-title lang="es">Virgencita, que me quede como estoy</sub-title>
+    <desc lang="es">El Metralla hace buenas migas con Pavel y juntos se hacen confidencias mientras Eva habla con sus hijos. Eva se entera del verdadero motivo de aparcar la autocaravana al lado del hotel: Metralla se alojó con su banda de rock el día de su concierto de despedida. Serie que narra la experiencia de Julia, quien tras su divorcio, debe hacerse cargo de un negocio ruinoso, que tratará de sacar adelante. En esta segunda temporada, la muerte de Doña Leonor mientras disfrutaba de un safari fotográfico ha sido una sorpresa para todos.(n)</desc>
+    <credits>
+      <actor>Manuel Navarro</actor>
+      <actor>María Barranco</actor>
+      <actor>Juan Fernández</actor>
+      <actor>Mabel Lozano</actor>
+      <actor>Diana Peñalver</actor>
+      <actor>Lolita Flores</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e9/610025.png" />
+  </programme>
+  <programme start="20200514064500 +0000" stop="20200514073000 +0000" channel="Atreseries">
+    <title lang="es">La sopa boba</title>
+    <sub-title lang="es">La sombra de Villaescusa es alargada</sub-title>
+    <desc lang="es">Los problemas parecen no terminar nunca en el Hotel Paraíso. Richard quiere ser alguien en la dirección del establecimiento, pero no da una a derechas. Además, tiene dificultades para matricularse en la Universidad. Serie que narra la experiencia de Julia, quien tras su divorcio, debe hacerse cargo de un negocio ruinoso, que tratará de sacar adelante. En esta segunda temporada, la muerte de Doña Leonor mientras disfrutaba de un safari fotográfico ha sido una sorpresa para todos.(n)</desc>
+    <credits>
+      <actor>Manuel Navarro</actor>
+      <actor>María Barranco</actor>
+      <actor>Juan Fernández</actor>
+      <actor>Mabel Lozano</actor>
+      <actor>Diana Peñalver</actor>
+      <actor>Lolita Flores</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/e9/610025.png" />
+  </programme>
+  <programme start="20200514073000 +0000" stop="20200514082000 +0000" channel="Atreseries">
+    <title lang="es">Más de series</title>
+    <desc lang="es">Programa de producción propia que muestra curiosidades sobre las series de Atresmedia. Programa de producción propia que muestra curiosidades sobre las series de Atresmedia.(n)</desc>
+    <category lang="es">Televisión</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/60/629344.png" />
+  </programme>
+  <programme start="20200514082000 +0000" stop="20200514094000 +0000" channel="Atreseries">
+    <title lang="es">El síndrome de Ulises</title>
+    <sub-title lang="es">Las apariencias no engañan</sub-title>
+    <desc lang="es">Rai pide ayuda a Teresa, la madre de Ulises. Tiene una reunión muy importante con un mafioso italiano y quiere causarle una grata impresión, así que le pide (sin que Ulises se entere) que se haga pasar por su esposa y le dé clases de protocolo. Ulises es un joven niño rico acostumbrado a la buena vida, que se convierte en el coordinador de una clínica ubicada en las afueras de la ciudad. Allí, tendrá que lidiar con sus nuevos compañeros de trabajo.(n)</desc>
+    <credits>
+      <actor>Olivia Molina</actor>
+      <actor>Nancho Novo</actor>
+      <actor>Toni Acosta</actor>
+      <actor>Carla Antonelli</actor>
+      <actor>Miguel Ángel Muñoz</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/bd/274621.png" />
+  </programme>
+  <programme start="20200514094000 +0000" stop="20200514110000 +0000" channel="Atreseries">
+    <title lang="es">Compañeros</title>
+    <sub-title lang="es">Es ley de vida</sub-title>
+    <desc lang="es">Los padres de Mercedes se separan y la presionan para que decida con quién quiere vivir. Esta situación repercute en el rendimiento escolar de la chica. Félix y Alfredo se mudan a su nueva casa y empiezan a surgir los primeros problemas de convivencia. La serie se centra en el Azcona, un colegio urbano; y refleja los conflictos, esperanzas y frustraciones no sólo de alumnos, sino también de padres y profesores, que además de impartir sus asignaturas fomentarán valores sociales y humanos como el compañerismo.(n)</desc>
+    <credits>
+      <actor>Manuel Feijóo</actor>
+      <actor>Julián González</actor>
+      <actor>Eva Santolaria</actor>
+      <actor>Antonio Hortelano</actor>
+      <actor>Duna Jové</actor>
+      <actor>Lara de Miguel</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/6a/611946.png" />
+  </programme>
+  <programme start="20200514110000 +0000" stop="20200514120800 +0000" channel="Atreseries">
+    <title lang="es">Aquí no hay quien viva</title>
+    <sub-title lang="es">Érase una mudanza</sub-title>
+    <desc lang="es">En el primer episodio de esta comedia, Roberto y Lucía, una pareja joven, se está mudando ilusionada a un edificio de clase media de una gran ciudad. Su primer día no sale como habían pensado, empezando por que no encuentran al portero para que les dé la llave. Los cotilleos, romances y fobias tienen lugar en una comunidad de vecinos tratados en clave de humor en esta comedia, que llega ya a su quinta temporada.(n)</desc>
+    <credits>
+      <actor>María Adánez</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Santiago Ramos</actor>
+      <actor>Gemma Cuervo</actor>
+      <actor>Emma Penella</actor>
+      <actor>Assumpta Serna</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/85/261509.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514120800 +0000" stop="20200514131600 +0000" channel="Atreseries">
+    <title lang="es">Aquí no hay quien viva</title>
+    <sub-title lang="es">Érase un cobaya</sub-title>
+    <desc lang="es">Juan se ofrece voluntario para provar una píldora para el crecimiento del cabello. Isabel escucha una conversación en el hospital y cree que Juan se va a morir, que le quedan pocos días. Por otro lado, Diego y Abel vuelven del viaje con la intención de casarse. Los cotilleos, romances y fobias tienen lugar en una comunidad de vecinos tratados en clave de humor en esta comedia, que llega ya a su quinta temporada.(n)</desc>
+    <credits>
+      <actor>María Adánez</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Santiago Ramos</actor>
+      <actor>Gemma Cuervo</actor>
+      <actor>Emma Penella</actor>
+      <actor>Assumpta Serna</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/283696.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514131600 +0000" stop="20200514142500 +0000" channel="Atreseries">
+    <title lang="es">Aquí no hay quien viva</title>
+    <sub-title lang="es">Érase un par de bodas</sub-title>
+    <desc lang="es">Belén y Paco preparan sus respectivas bodas, Belén con Pedro y Paco con Lourdes. Pero la noche anterior al enlace, Pedro le pide a Belén que firme un documento de separación de bienes. Por otra parte, Juan Cuesta vende el 2º B a Carlos y se encuentra con 90.000 euros. Los cotilleos, romances y fobias tienen lugar en una comunidad de vecinos tratados en clave de humor en esta comedia, que llega ya a su quinta temporada.(n)</desc>
+    <credits>
+      <actor>María Adánez</actor>
+      <actor>Adrià Collado</actor>
+      <actor>Santiago Ramos</actor>
+      <actor>Gemma Cuervo</actor>
+      <actor>Emma Penella</actor>
+      <actor>Assumpta Serna</actor>
+    </credits>
+    <category lang="es">Comedias</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/4b/622923.png" />
+    <rating>
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20200514142500 +0000" stop="20200514151000 +0000" channel="Atreseries">
+    <title lang="es">Lucifer</title>
+    <sub-title lang="es">Eh tu, doctora!</sub-title>
+    <desc lang="es">Lucifer y Chloe investigan el asesinato de una terapeuta y acuden a la doctora Linda como consultora en la búsqueda de sospechosos. Mientras tanto, Lucifer lucha, por primera vez, al sentir celos por alguien. Encantador, carismático y bello como el diablo, Lucifer hace que la gente confiese sus secretos más profundos y oscuros. Este don ayuda a Chloe Decker, una detective del departamento de policía de Los Angeles, a resolver los casos más complicados.(n)</desc>
+    <credits>
+      <actor>Tom Ellis</actor>
+      <actor>Lauren German</actor>
+      <actor>D.B. Woodside</actor>
+      <actor>Lesley-Ann Brandt</actor>
+      <actor>Scarlett Estevez</actor>
+      <actor>Kevin Alejandro</actor>
+      <writer>Tom Kapinos</writer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/83/259715.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514151000 +0000" stop="20200514155500 +0000" channel="Atreseries">
+    <title lang="es">Lucifer</title>
+    <desc lang="es">Un químico de alimentos aparece muerto. En medio de su investigación, Lucifer y Chloe se encuentran a alguien inesperado: la abogada criminalista Charlotte Richards. Su vuelta deja a todo el mundo sorprendido. Encantador, carismático y bello como el diablo, Lucifer hace que la gente confiese sus secretos más profundos y oscuros. Este don ayuda a Chloe Decker, una detective del departamento de policía de Los Angeles, a resolver los casos más complicados.(n)</desc>
+    <credits>
+      <actor>Tom Ellis</actor>
+      <actor>Lauren German</actor>
+      <actor>D.B. Woodside</actor>
+      <actor>Lesley-Ann Brandt</actor>
+      <actor>Scarlett Estevez</actor>
+      <actor>Kevin Alejandro</actor>
+      <writer>Tom Kapinos</writer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/471856.png" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514155500 +0000" stop="20200514164000 +0000" channel="Atreseries">
+    <title lang="es">Lucifer</title>
+    <desc lang="es">Cuando Lucifer descubre que Candy, su falsa exmujer ha desaparecido, corre a Las Vegas acompañado de Ella. Juntos tratan de encontrarla, pero por el camino descubren unos interesantes secretos que podrían comprometer la investigación. Encantador, carismático y bello como el diablo, Lucifer hace que la gente confiese sus secretos más profundos y oscuros. Este don ayuda a Chloe Decker, una detective del departamento de policía de Los Angeles, a resolver los casos más complicados.(n)</desc>
+    <credits>
+      <actor>Tom Ellis</actor>
+      <actor>Lauren German</actor>
+      <actor>D.B. Woodside</actor>
+      <actor>Lesley-Ann Brandt</actor>
+      <actor>Scarlett Estevez</actor>
+      <actor>Kevin Alejandro</actor>
+      <writer>Tom Kapinos</writer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/30/471856.png" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514164000 +0000" stop="20200514172300 +0000" channel="Atreseries">
+    <title lang="es">El Mentalista</title>
+    <sub-title lang="es">Criba de cerezas</sub-title>
+    <desc lang="es">El CBI investiga un extraño caso de secuestro. Mientras, Patrick intenta averiguar qué guardia permitió la fuga de Lorelei, una peligrosa reclusa. Patrick Jane y la Brigada Criminal capitaneada por Teresa Lisbon están cerca de descubrir quien es John el Rojo, el asesino en serie que mató a la familia del antiguo médium. La lista de siete sospechosos que posee Jane será el eje central de la sexta temporada.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Emily Swallow</actor>
+      <writer>Bruno Heller</writer>
+    </credits>
+    <category lang="es">Misterio</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/05/227589.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514172300 +0000" stop="20200514180600 +0000" channel="Atreseries">
+    <title lang="es">El Mentalista</title>
+    <sub-title lang="es">Pastelitos de terciopelo rojo</sub-title>
+    <desc lang="es">Una mujer muere asesinada después de llamar a un programa de radio que se encarga de ayudar a parejas en crisis a resolver sus problemas. Rigsby y Van Pelt se hacen pasar por una pareja y acuden a la emisora para investigar quién puede estar detrás del asesinato. Patrick Jane y la Brigada Criminal capitaneada por Teresa Lisbon están cerca de descubrir quien es John el Rojo, el asesino en serie que mató a la familia del antiguo médium. La lista de siete sospechosos que posee Jane será el eje central de la sexta temporada.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Emily Swallow</actor>
+      <writer>Bruno Heller</writer>
+    </credits>
+    <category lang="es">Misterio</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/05/227589.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514180600 +0000" stop="20200514184900 +0000" channel="Atreseries">
+    <title lang="es">El Mentalista</title>
+    <sub-title lang="es">Desazón roja</sub-title>
+    <desc lang="es">LaRoche pide ayuda a Jane para descubrir el ladrón de la misteriosa caja que ha estado ocultando durante 9 años. Al parecer, alguien puede estar contratando a personas con discapacidad intelectual para cometer los hurtos. Patrick Jane y la Brigada Criminal capitaneada por Teresa Lisbon están cerca de descubrir quien es John el Rojo, el asesino en serie que mató a la familia del antiguo médium. La lista de siete sospechosos que posee Jane será el eje central de la sexta temporada.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Emily Swallow</actor>
+      <writer>Bruno Heller</writer>
+    </credits>
+    <category lang="es">Misterio</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/05/227589.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514184900 +0000" stop="20200514193200 +0000" channel="Atreseries">
+    <title lang="es">El Mentalista</title>
+    <sub-title lang="es">Las reglas de John el rojo</sub-title>
+    <desc lang="es">Jane investiga el caso de una víctima que ha aparecido degollada. En el escenario del crimen hay una cara sonriente pintada en la pared. Al parecer, el dibujo corresponde a la firma de los crímenes de John el Rojo. Patrick Jane y la Brigada Criminal capitaneada por Teresa Lisbon están cerca de descubrir quien es John el Rojo, el asesino en serie que mató a la familia del antiguo médium. La lista de siete sospechosos que posee Jane será el eje central de la sexta temporada.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Emily Swallow</actor>
+      <writer>Bruno Heller</writer>
+    </credits>
+    <category lang="es">Misterio</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/05/227589.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514193200 +0000" stop="20200514201500 +0000" channel="Atreseries">
+    <title lang="es">El Mentalista</title>
+    <sub-title lang="es">La rosa del desierto</sub-title>
+    <desc lang="es">Patrick Jane sigue buscando venganza. Está cerca de descubrir quién es John el Rojo, pues la lista de sospechosos se ha reducido a siete sujetos. En el episodio que inicia la sexta temporada, la brigada criminal investiga la muerte de un hombre desaparecido. Patrick Jane y la Brigada Criminal capitaneada por Teresa Lisbon están cerca de descubrir quien es John el Rojo, el asesino en serie que mató a la familia del antiguo médium. La lista de siete sospechosos que posee Jane será el eje central de la sexta temporada.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Emily Swallow</actor>
+      <writer>Bruno Heller</writer>
+    </credits>
+    <category lang="es">Misterio</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/27/229159.png" />
+    <rating>
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20200514201500 +0000" stop="20200514210000 +0000" channel="Atreseries">
+    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
+    <sub-title lang="es">Suspenso institucional</sub-title>
+    <desc lang="es">La Unidad de Víctimas Especiales va tras los servicios sociales después de que la falsificación de unos documentos lleve a la muerte de una joven. Pero Benson está recibiendo mucha presión política para dejarlo pasar y que no salgan a la luz trapos sucios. La Unidad de Víctimas Especiales es un departamento singular dentro del cuerpo de policía. La sargento Olivia Benson dirige la unidad con empatía pero también con mano dura.(n)</desc>
+    <credits>
+      <actor>Richard Belzer</actor>
+      <actor>Dann Florek</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Ice-T</actor>
+      <actor>BD Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <writer>Dick Wolf</writer>
+    </credits>
+    <category lang="es">Policiacas</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/a4/563876.png" />
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20200514210000 +0000" stop="20200514214500 +0000" channel="Atreseries">
+    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
+    <sub-title lang="es">Un malentendido</sub-title>
+    <desc lang="es">Una acusación de violación en un instituto deriva en una complicada situación sin solución ni pruebas de lo que ha ocurrido, si es que realmente ha ocurrido algo. La Unidad de Víctimas Especiales es un departamento singular dentro del cuerpo de policía. La sargento Olivia Benson dirige la unidad con empatía pero también con mano dura.(n)</desc>
+    <credits>
+      <actor>Richard Belzer</actor>
+      <actor>Dann Florek</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Ice-T</actor>
+      <actor>BD Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <writer>Dick Wolf</writer>
+    </credits>
+    <category lang="es">Policiacas</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/a4/563876.png" />
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20200514214500 +0000" stop="20200514223000 +0000" channel="Atreseries">
+    <title lang="es">Ley y Orden: Unidad de Víctimas Especiales</title>
+    <sub-title lang="es">Cuarenta y un testigos</sub-title>
+    <desc lang="es">Una mujer es sexualmente asaltada por un grupo de adolescentes en la puerta de su edificio. La Unidad de Víctimas Especiales intentan arrestar a su agresor, pero ninguno de los muchos testigos potenciales que presenció la agresión está dispuesto a terstificar. La Unidad de Víctimas Especiales es un departamento singular dentro del cuerpo de policía. La sargento Olivia Benson dirige la unidad con empatía pero también con mano dura.(n)</desc>
+    <credits>
+      <actor>Richard Belzer</actor>
+      <actor>Dann Florek</actor>
+      <actor>Tamara Tunie</actor>
+      <actor>Ice-T</actor>
+      <actor>BD Wong</actor>
+      <actor>Mariska Hargitay</actor>
+      <writer>Dick Wolf</writer>
+    </credits>
+    <category lang="es">Policiacas</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/a4/563876.png" />
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20200514223000 +0000" stop="20200514231200 +0000" channel="Atreseries">
+    <title lang="es">Navy: Investigación Criminal</title>
+    <sub-title lang="es">Un hombre desesperado</sub-title>
+    <desc lang="es">El equipo busca al asesino de una comandante de la marina muerta en un edifico en construcción. Sin embargo, la tarea del equipo se ve interrumpida por culpa del marido. Mientras tanto, la vuelta de Ray hace que Ziva reflexione sobre su futuro. Decimoséptima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina estadounidense que investiga los crímenes que tienen relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Michael Weatherly</actor>
+      <writer>Don McGill</writer>
+      <writer>Donald P. Bellisario</writer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1d/507933.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514231200 +0000" stop="20200514235500 +0000" channel="Atreseries">
+    <title lang="es">Navy: Investigación Criminal</title>
+    <sub-title lang="es">Su vida ante sus ojos</sub-title>
+    <desc lang="es">Durante una parada rutinaria para tomar el café de la mañana en el restaurante local, Gibbs sufre un dilema interior. En ese momento inicia un viaje al pasado en el que se cuestiona sus decisiones presentes y pasadas. Decimoséptima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina estadounidense que investiga los crímenes que tienen relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Michael Weatherly</actor>
+      <writer>Don McGill</writer>
+      <writer>Donald P. Bellisario</writer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1d/507933.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20200514235500 +0000" stop="20200515003700 +0000" channel="Atreseries">
+    <title lang="es">Navy: Investigación Criminal</title>
+    <sub-title lang="es">Secretos</sub-title>
+    <desc lang="es">Gibbs y su equipo regresan a la cadena con nuevos episodios de la novena temporada. Un capitán de la marina aparece muerto con un traje poco común debajo de su uniforme. Tony debe trabajar junto a su exnovia para esclarecer el crimen y encontrar al asesino. Decimoséptima temporada de la serie que narra los casos del NCIS, un grupo especial de la Marina estadounidense que investiga los crímenes que tienen relación con este cuerpo: desde asesinatos hasta espionaje, pasando por ataques terroristas.(n)</desc>
+    <credits>
+      <actor>Mark Harmon</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Michael Weatherly</actor>
+      <writer>Don McGill</writer>
+      <writer>Donald P. Bellisario</writer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/1d/507933.png" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+</tv>
